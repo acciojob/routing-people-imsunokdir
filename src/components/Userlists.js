@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const users = [
   {
     id: 1,
-    name: "John Doe",
+    name: "Leanne Graham",
     username: "johndoe",
     email: "johndoe@example.com",
     phone: "123-456-7890",

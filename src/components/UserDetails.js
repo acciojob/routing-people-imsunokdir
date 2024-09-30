@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom";
 const users = [
   {
     id: 1,
-    name: "John Doe",
+    name: "Leanne Graham",
     username: "johndoe",
     email: "johndoe@example.com",
     phone: "123-456-7890",
@@ -84,22 +84,13 @@ const UserDetails = () => {
   }
   return (
     <div>
-      <h1>{user.name}</h1>
-      <p>
-        <strong>Name:</strong> {user.name}
-      </p>
-      <p>
-        <strong>Username:</strong> {user.username}
-      </p>
-      <p>
-        <strong>Email:</strong> {user.email}
-      </p>
-      <p>
-        <strong>Phone:</strong> {user.phone}
-      </p>
-      <p>
-        <strong>Website:</strong> {user.website}
-      </p>
+      Loading...
+      <h1>User Details</h1>
+      <p>Name:{user.name}</p>
+      <p>Username: {user.username}</p>
+      <p>Email: {user.email}</p>
+      <p>Phone: {user.phone}</p>
+      <p>Website: {user.website}</p>
     </div>
   );
 };
