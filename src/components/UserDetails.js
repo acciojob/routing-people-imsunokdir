@@ -6,7 +6,7 @@ const users = [
     name: "Leanne Graham",
     username: "Bret",
     email: "Sincere@april.biz",
-    phone: "123-456-7890",
+    phone: "1-770-736-8031 x56442",
     website: "www.johndoe.com",
   },
   {
