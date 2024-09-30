@@ -12,15 +12,15 @@ const users = [
   },
   {
     id: 2,
-    name: "Jane Smith",
-    username: "janesmith",
+    name: "Ervin Howell",
+    username: "Bret",
     email: "janesmith@example.com",
     phone: "234-567-8901",
     website: "www.janesmith.com",
   },
   {
     id: 3,
-    name: "Alice Johnson",
+    name: "Clemintine Bauch",
     username: "alicej",
     email: "alicej@example.com",
     phone: "345-678-9012",
@@ -28,7 +28,7 @@ const users = [
   },
   {
     id: 4,
-    name: "Bob Brown",
+    name: "Patricia Lebsack",
     username: "bobbrown",
     email: "bobbrown@example.com",
     phone: "456-789-0123",
@@ -36,7 +36,7 @@ const users = [
   },
   {
     id: 5,
-    name: "Charlie Lee",
+    name: "Chelsey Dietrich",
     username: "charlielee",
     email: "charlielee@example.com",
     phone: "567-890-1234",
@@ -44,7 +44,7 @@ const users = [
   },
   {
     id: 6,
-    name: "Diana King",
+    name: "Mrs. Dennis Schulist",
     username: "dianaking",
     email: "dianaking@example.com",
     phone: "678-901-2345",
@@ -52,7 +52,7 @@ const users = [
   },
   {
     id: 7,
-    name: "Ethan Walker",
+    name: "Kurtis Weissnat",
     username: "ethanwalker",
     email: "ethanwalker@example.com",
     phone: "789-012-3456",
@@ -60,7 +60,7 @@ const users = [
   },
   {
     id: 8,
-    name: "Fiona Martinez",
+    name: "Nicholas Runolfs",
     username: "fionam",
     email: "fionam@example.com",
     phone: "890-123-4567",
@@ -68,7 +68,15 @@ const users = [
   },
   {
     id: 9,
-    name: "George Harris",
+    name: "Gienna Reichert",
+    username: "georgeh",
+    email: "georgeh@example.com",
+    phone: "901-234-5678",
+    website: "www.georgeharris.com",
+  },
+  {
+    id: 10,
+    name: "Clementina Dubuque",
     username: "georgeh",
     email: "georgeh@example.com",
     phone: "901-234-5678",
